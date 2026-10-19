@@ -1,0 +1,463 @@
+{
+    "RANKED_SOLO_5x5": {
+        "FIS Build": {
+            "puuid": "VNvbG7p1jh7F2AgtekypC8uuU8LBb_b77WdgQMtZEDkpmFhlnuazDuKAVS-rL2cJOK-5rYyZ-nbcrw",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Lepyrodekled": {
+            "puuid": "0g1BOtO5thbsHjZPj_0y07G3DyqN3Vj65KD7q3d52xz_1SGXStIItdUYxBdnTC4axM_NGKBhUIDC4w",
+            "rank": {
+                "tier": "DIAMOND",
+                "div": "I",
+                "lp": 45,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Marmelade": {
+            "puuid": "q-4Kpe83KZNYn3fvFaJTVcUCMEqHfA14tCSuyTDJMCwfz1uP3kuNseUEvZZhLMUdHI3adQ0zdsU7FA",
+            "rank": {
+                "tier": "DIAMOND",
+                "div": "I",
+                "lp": 31,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Taloche": {
+            "puuid": "kZgmvcRtIDORF-UXZ4s-gX82-KVFkeJM6L8A-nZldMdqowxISV67QXNbDxieNj_-aeKMgSOd9Yo_-w",
+            "rank": {
+                "tier": "MASTER",
+                "div": "I",
+                "lp": 43,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Elo": {
+            "puuid": "KTmWUWWyzwcx00pKu-kwY0X1m8gwlIkj8YC5xCs-GY_0T6m41Q1kfyVRCpwxULG7eJwf697aiqDGYg",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "MILK"
+        },
+        "FIS Vaalouu": {
+            "puuid": "_7f33kdseqXEZbejvery_yRo5PSTaj5d-YUdAJIh_iamy01khWNTYMJ3tXWFTMW8foRZI7R28XEmiA",
+            "rank": {
+                "tier": "MASTER",
+                "div": "I",
+                "lp": 35,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Nashoba": {
+            "puuid": "SBXbWgX502lxNSMSo9K4qMh5FPrUd0NaFypnXcwKMcLjbSvTCWzu4XxxGgDUAEGaDx_IyN-2X1nBFQ",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Titimoth": {
+            "puuid": "M2WdVUmk48_6_UFniKV4wO3n4ZksSWU_CkjipDSoQbQbwrhlgou18A-t7_PQx1k91rK_cJGXZe3qsw",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS SuspYicious": {
+            "puuid": "YtC7Sx6mzNgcguOU5-UvlrCdxC2QrO-LRyL5N0Og5bTQIJz6iv9f9ng9GDoPD7k-zoLTStDvPj0PcQ",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            }
+        },
+        "FIS Teew0o": {
+            "puuid": "eFwp0TJXWbbZRXOYLd9RjHUpYFhcjvRZdE0gKU7I756DAjnRtrtzBqwRlgOgCSGTB6p6-nk9WrKC2Q",
+            "rank": {
+                "tier": "EMERALD",
+                "div": "II",
+                "lp": 56,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Iriona": {
+            "puuid": "vskbkMoowmFAUp0rLc6oZRXjVn-65PCTe0IEhomo3OuZxcatCd_mEKFblSiLE5UHPc8r3CHEUgP6mA",
+            "rank": {
+                "tier": "EMERALD",
+                "div": "II",
+                "lp": 2,
+                "lpDeltaDaily": 0
+            },
+            "tag": "0000"
+        },
+        "FIS Skilen": {
+            "puuid": "VnX9jNNWrSEOqPEpumW4Bgy5A6vIH3L6x7XEbmC6cK5kUM_1nTmW4z-zRn-UVWQ2jFlogdwJofJ_QA",
+            "rank": {
+                "tier": "EMERALD",
+                "div": "IV",
+                "lp": 10,
+                "lpDeltaDaily": 0
+            },
+            "tag": "3574"
+        },
+        "FIS K\u039bL\u0399T\u03b3": {
+            "puuid": "fNqhGJXsA7z9pf4cJs6KlnHZU_gwJrCiGc-JQZXpF6wa4L4UXR7pD1uDjljz0aKWDSwuSwrwOPU_Ug",
+            "rank": {
+                "tier": "EMERALD",
+                "div": "III",
+                "lp": 58,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Kynorah": {
+            "puuid": "i8RgU_qbkn12be0Zwm1vQCgQscDPnQ0vuyRnJXsnmF0nRCX0XYcVaV-K6ox9sNtG0d5bLTb6SRrhcQ",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "Lux"
+        },
+        "FIS Ayanima": {
+            "puuid": "qPyS4RRtxxvNfmx7XURy0HMRxtXcnQUamNvjiAwaBi5O9WBfsF24HyFwvC06fsT-IptyhDiE923JIA",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "1505"
+        },
+        "FIS Onizuka": {
+            "puuid": "VGKAQLx1B9T4kKleUk_dQW5yLgxXrL56CAFGk497HUqDajm1MHML0AxdunByW3lgV32s9uFwIrrW9g",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "22ans"
+        },
+        "FIS matthiasbarb": {
+            "puuid": "_q1f6nSUjqUS39RzL29sicVQ2CBiAAlbRRJvvZ9qIt2CTW5C2nT2Z7VB5Dk58vnm8U8K00f85Ltoyw",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS DuRoFY": {
+            "puuid": "IIbraOZ9ia9CkHuJe1bA3DouvVa27LTr9W91DD7Rau23cLGCHoUCRWJUDc3n18JPVm608Qe7ccPjJA",
+            "rank": {
+                "tier": "BRONZE",
+                "div": "III",
+                "lp": 2,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS RazayeL": {
+            "puuid": "ZatlxR2WOIVJLWPWjLhYXf9Cj_uuTZLqRPRsyMtD0ZC5oNl2o8Jv5TcaLvqmNyAKg3dUL1fhJFK5rw",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Godofwoods": {
+            "puuid": "xKd8zoU80I_ZpbhHRi-GvCfg8EdV8fFLWq0SPNKiEruLiFbsJLAJ_viyPowf8jxajClGeqwNkGUTNg",
+            "rank": {
+                "tier": "PLATINUM",
+                "div": "IV",
+                "lp": 4,
+                "lpDeltaDaily": 0
+            },
+            "tag": "AYA"
+        },
+        "FIS Crocass": {
+            "puuid": "gEzQzmmVB00EyMyqEIif7I5AyW27nnLkpgnsKTbrurYB19AK3FYm9joLWrwyXxPVRKzjIQhReJqXdQ",
+            "rank": {
+                "tier": "PLATINUM",
+                "div": "IV",
+                "lp": 23,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Demoni": {
+            "puuid": "0bPvbabzeQQO3R6e1It1MVnvWOMvh1Zi_MLLKqkA6zNXOaCIEKegcNMrtpoYYmIAtXtuu6ndpSbFMg",
+            "rank": {
+                "tier": "PLATINUM",
+                "div": "II",
+                "lp": 10,
+                "lpDeltaDaily": 0
+            },
+            "tag": "Devil"
+        },
+        "FIS Ae Chii": {
+            "puuid": "ZZRuVI009-Zbr5rl3b3zGnJKteb0YuEKhDjR3uIqqF-q1EwlGzQtoU7dUvXbuej0tt2BPrO2vBImZQ",
+            "rank": {
+                "tier": "MASTER",
+                "div": "I",
+                "lp": 797,
+                "lpDeltaDaily": 0
+            }
+        }
+    },
+    "RANKED_TFT": {
+        "FIS Build": {
+            "puuid": "vki9uLlXwQmK36lmIZ403MnWIBC944Cc9Rr-YmIgCclQUnDrvH3SRmzDbn2fRgfUGsbXRMzbt0YFZw",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Lepyrodekled": {
+            "puuid": "_zOW129OznDSVv2uhtGT9K_UbDBWkPXEZJPo_tsPQaWKPzeE_LedOx9ZHXop3OY-zMBCItatgGwnoA",
+            "rank": {
+                "tier": "GOLD",
+                "div": "II",
+                "lp": 11,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Marmelade": {
+            "puuid": "hC4Yc3U6MIcsp10Uqov1H0ElUcKNys0barQFZnr_9PXI8ttjn0egqpdOdd0T1fdUm8Y3JzWEL25oLQ",
+            "rank": {
+                "tier": "EMERALD",
+                "div": "IV",
+                "lp": 23,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Taloche": {
+            "puuid": "dci6xDba2Xs7p1pQrOsIsvqXCkezxnGY3zGSyHTQtVfdXjINsikZXFEWDHGPBJGECy7MGFuLZ_0KmA",
+            "rank": {
+                "tier": "GOLD",
+                "div": "I",
+                "lp": 33,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Elo": {
+            "puuid": "SV4TDzaup5HMllJdSbZMrKumli-mVIUYevmOEu89XsO_H37yCAAqxNAMgwOmdYz6M40cI9bZvHYU1Q",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "MILK"
+        },
+        "FIS Vaalouu": {
+            "puuid": "2TzKgTZYOBgmpSruRmVhq0ivoqAs7cLbreidXDtKXhTdv4P1m8YO69vTHV29cRcwx54Kmu4Au6Gq3A",
+            "rank": {
+                "tier": "DIAMOND",
+                "div": "III",
+                "lp": 50,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Nashoba": {
+            "puuid": "J3DgGFDpQ03nuj3CDnBnKK5Vg9x4yoBYaKJX0a6DTUHsqBFoZ1NsqP-KfUugnRPpDHfV4xco6H3DYg",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Titimoth": {
+            "puuid": "hXAw2YxePJRqROIJgh8stHPdKPUYEBhBni3Wd_ll3BZgJQazGkziu9EZlPY0rkSPxe29fzvGrUHsjQ",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS SuspYicious": {
+            "puuid": "Ulj-eTEZx8r3o8BBBmnYqPct-gci7uC0XflayAlz-V8OEGW6vEv1nbQfgfcmhWCUVEMiLORcbvJgqw",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            }
+        },
+        "FIS Teew0o": {
+            "puuid": "-bV-7DR8P4Q-6xrju2mKW49T2RgxzP9hP4OkEg8-foYSndssoAZDCAvgLF3-juu0gOpqM4OOpvV-Xg",
+            "rank": {
+                "tier": "PLATINUM",
+                "div": "IV",
+                "lp": 23,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Iriona": {
+            "puuid": "fNC3yD2Sb5C1UFFmoupAKaRDk1QXGXN2wiiGILVl5TlGwNk0SozTnyLCHwLGzMBN3EzTvAGfdk8_xw",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "0000"
+        },
+        "FIS Skilen": {
+            "puuid": "91nDSYv-WBrsOXlmQA3RBbwgvJVmnnCcM6lcsEjF9RfXimlO83YUCUSI8Lw_-yMXcyJBEuwGEA5klA",
+            "rank": {
+                "tier": "SILVER",
+                "div": "II",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "3574"
+        },
+        "FIS K\u039bL\u0399T\u03b3": {
+            "puuid": "2wJE5CWvo-R8reKRwNMoe50cEcZyt669hgD0eOHTkdfujAwIuE8OUzf8CH-JT_580dqSKPl2c25rew",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Kynorah": {
+            "puuid": "9TG2CbXQ5PVWa_QqQXJUMeEcW8RCPz5XQRobY06avvE999pr0XPRb2hx_qE0y8ciFyX-vZfJrNY_gA",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "Lux"
+        },
+        "FIS Ayanima": {
+            "puuid": "vh6SF3f8jwozQq4H5TCvpsDL32v2DFichEQrvoD0iwGxjMdoQGUG9AUJwoEWS5s8BVBV6P4tPnJm5A",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "1505"
+        },
+        "FIS Onizuka": {
+            "puuid": "7B92jbcV5LsvBZ7dbTD2biBlf45lWQnTuxXl2iS3Sy8rpUlt0fgjsiMIdEM4OOKxaYBDinSzQeGgNg",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "22ans"
+        },
+        "FIS matthiasbarb": {
+            "puuid": "d8E71VrKLX_qpTSrpw3HseH8FVcbW2BMTlK3qWNGiT9KkNKdn7BlJe04vomAbbHyuM-XTpzE94f5Rw",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS DuRoFY": {
+            "puuid": "n3st5PT0PhgBldWYLe4Jzi75llZ2WAZpK63l0nNhMF7MS8PJsm8vmT4PAMUpWr-XD6caFJI-OcSoFA",
+            "rank": {
+                "tier": "PLATINUM",
+                "div": "III",
+                "lp": 9,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS RazayeL": {
+            "puuid": "97RPvADYT79FTj0zZ4Pg_oT6ydLTAOS0fStFo-4x4_ePUmJUZu1uBm7uEDoYu40F5Hhc4pzALkHj1A",
+            "rank": {
+                "tier": "MASTER",
+                "div": "I",
+                "lp": 18,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Godofwoods": {
+            "puuid": "SiE-EcszPV238sRjQBSTR1hN1Nv6pXj9-H8Z0_iXRY94ecqTxQTiRXi8yiVLuW2U8yzNyzZlsNi2Bw",
+            "rank": {
+                "tier": "SILVER",
+                "div": "I",
+                "lp": 15,
+                "lpDeltaDaily": 0
+            },
+            "tag": "AYA"
+        },
+        "FIS Crocass": {
+            "puuid": "Z5ct8Ku4euX_5OSmecxNRh2pd8KMprs9NWzHO6GpWnkKW1Dnh65vVftPFTbG-2vFBqaXACh-Wsdqow",
+            "rank": {
+                "tier": "GOLD",
+                "div": "III",
+                "lp": 65,
+                "lpDeltaDaily": 0
+            },
+            "tag": "FIS"
+        },
+        "FIS Demoni": {
+            "puuid": "Sqd4PuUS_bIaqfIMK8cbp87RSiBNLQvaZsOCPNI7cS98nR8WRa0eM_zHTfmy79Bk6vS8ldjdPIyWiw",
+            "rank": {
+                "tier": "GOLD",
+                "div": "II",
+                "lp": 0,
+                "lpDeltaDaily": 0
+            },
+            "tag": "Devil"
+        },
+        "FIS Ae Chii": {
+            "puuid": "kYwDXEnFHbB_wKnTtGwQ0Oh4iO3jhD5hHpe4H94AT8sgAix1pz2CzNdZP1TlNpUy4foKmA-pBwSSGw",
+            "rank": {
+                "tier": "UNRANKED",
+                "div": "",
+                "lp": 0,
+                "lpDeltaDaily": 0,
+                "lpDeltaForever": 0
+            }
+        }
+    }
+}
